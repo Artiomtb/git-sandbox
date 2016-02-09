@@ -13,10 +13,11 @@ Hello, added new user!
 Test
 1
 2
-<<<<<<< HEAD
 Master test
 Test
 1c
 2c
 3c
 4c
+hello
+hello 2
